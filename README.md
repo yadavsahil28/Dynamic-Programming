@@ -3,13 +3,14 @@ This repository contains programming questions based on Dynamic Programming.
 - Fibonacci https://leetcode.com/problems/fibonacci-number/
 - Minimum Cost climbing stairs https://leetcode.com/problems/min-cost-climbing-stairs/
 - Maximum Sum of Non Adjacent elements https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261
-- Coin Change 1 https://leetcode.com/problems/coin-change/
-- Coin Change 2 https://leetcode.com/problems/coin-change-ii/
 - House Robber https://leetcode.com/problems/house-robber/
 - Cut Rod into Segments of X, Y, Z https://www.codingninjas.com/studio/problems/cut-into-segments_1214651
 - Perfect Squares https://leetcode.com/problems/perfect-squares/
 - Combination Sum IV https://leetcode.com/problems/combination-sum-iv/
 - Minimum Cost For Tickets https://leetcode.com/problems/minimum-cost-for-tickets/
+
+- Coin Change 1 https://leetcode.com/problems/coin-change/
+- Coin Change 2 https://leetcode.com/problems/coin-change-ii/
 
 
 - Knapsack problem https://www.codingninjas.com/studio/problems/0-1-knapsack_920542
