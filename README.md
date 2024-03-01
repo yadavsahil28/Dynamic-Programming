@@ -13,7 +13,7 @@ This repository contains programming questions based on Dynamic Programming.
 - Coin Change 2 https://leetcode.com/problems/coin-change-ii/
 
 
-- Knapsack problem https://www.codingninjas.com/studio/problems/0-1-knapsack_920542
+- Knapsack problem https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 - Largest square area in a matrix https://leetcode.com/problems/maximal-square/
 - Minimum Score Triangulation of Polygon https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 - Minimum Sideway Jumps https://leetcode.com/problems/minimum-sideway-jumps/
