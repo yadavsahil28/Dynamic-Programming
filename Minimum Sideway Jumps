@@ -39,12 +39,8 @@ class Solution {
 public:
     int minSideJumps(vector<int>& obstacles) {
         int n=obstacles.size()-1;
-        vector<vector<int> > dp(4,vector<int>(obstacles.size(),1e9));
+        vector<vector<int> > dp(4,vector<int>(obstacles.size(),0));
         
-        dp[0][n]=0;
-        dp[1][n]=0;
-        dp[2][n]=0;
-        dp[3][n]=0;
         // actuall ye n-2 h kkyuki n - 1 upr bhi h n calculate krne me
         for(int currpos = n-1; currpos>=0; currpos--){
             for(int currlane = 1; currlane<=3; currlane++){
