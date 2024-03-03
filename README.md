@@ -32,6 +32,7 @@ This repository contains programming questions based on Dynamic Programming.
   2D DP + MERGE INTERVALS -
 - Unique BST https://leetcode.com/problems/unique-binary-search-trees/
 - Guessing Game https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+- Minimum Cost Tree From Leaf Values https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 
   2D DP + DECISION MAKING -
 - Best Time to Buy and Sell Stock I  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
