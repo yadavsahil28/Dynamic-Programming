@@ -51,7 +51,6 @@ This repository contains programming questions based on Dynamic Programming.
   MISC PROBLEMS -
 - Trapping Rain Water I  https://leetcode.com/problems/trapping-rain-water/
 - Trapping Rain Water II  https://leetcode.com/problems/trapping-rain-water-ii/
-- Longest Valid Parentheses  https://leetcode.com/problems/longest-valid-parentheses/
 - Max rectangle with all 1's  https://leetcode.com/problems/maximal-rectangle/
 - Wildcard Matching  https://leetcode.com/problems/wildcard-matching/
 - Champagne Tower  https://leetcode.com/problems/champagne-tower/
